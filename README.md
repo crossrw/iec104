@@ -1,6 +1,6 @@
 # IEC104
 
-This is a simple implementation of an IEC 60870-5-104 data exchange server for Delphi/FPC.
+This is a simple implementation of an IEC 60870-5-104 data exchange server for Delphi & FPC.
 
 I am not sure that all the requirements of the standard are fully met, but the test clients (QTester104 and Freyr SCADA client simulator), in my opinion, work correctly.
 
